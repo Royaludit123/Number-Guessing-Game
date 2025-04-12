@@ -1,2 +1,3 @@
-# Number-Guessing-Game
-A simple number guessing game built with Java.
+# 01 Number Guessing Game
+
+This is a basic Java project for practice.
